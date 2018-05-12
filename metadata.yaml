@@ -1,0 +1,29 @@
+_repo: The-Spirit-of-Youth-and-the-City-Streets_16221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Addams, Jane
+    alias: Addams, Laura Jane
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '602'
+    url: http://www.gutenberg.org/2009/agents/602
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Addams
+description: ''
+gutenberg_issued: '2005-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child rearing'
+- !lcc 'HQ'
+- !lcsh 'Urban youth'
+title: The Spirit of Youth and the City Streets
+url: http://www.gutenberg.org/ebooks/16221
